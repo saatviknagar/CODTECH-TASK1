@@ -7,10 +7,10 @@
 **Mentor**: Neela Santhosh Kumar
 
 
-Overview of the Project
-Project: TO-Do-List App
+## Overview of the Project
+### Project: TO-Do-List App
 
-Objective
+### Objective
 The objective of this project is to create a TO-Do list app so that an individual can assign their tasks and while they complete their task they can just mark their tasks as done or completed.
 
 Key Activities
