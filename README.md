@@ -20,6 +20,6 @@ One of the intrested thing is that how many times you reload the page all the ta
 
 ### Technologies Used
 The languages used for creating this wwebsite are:
-HTML 
-CSS 
-JavaScript 
+### HTML 
+### CSS 
+### JavaScript 
