@@ -6,7 +6,6 @@ Domain: WEB DEVELOPMENT
 Duration: August to September 2024
 Mentor: Neela Santhosh Kumar
 Overview of the Project
-
 Project: TO-Do-List App
 
 Objective
