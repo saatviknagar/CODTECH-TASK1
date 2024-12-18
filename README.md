@@ -1,10 +1,9 @@
 
-**Name**: ADITYA ANURAG  
+**Name**: SAATVIK NAGAR  
 **Company**: CODTECH IT SOLUTIONS  
-**ID**: CT08DS7724  
+**ID**: CT08DS10393 
 **Domain**: WEB DEVELOPMENT  
-**Duration**: August to September 2024  
-**Mentor**: Neela Santhosh Kumar  
+**Duration**: NOVEMBER to DECEMBER 2024   
 
 
 ## Overview of the Project
